@@ -1,3 +1,4 @@
 # prathap33
 Github Expirement.
-CSE course Github and CI/CD Basics
+CSE course Github and CI/CD Basics.
+I am a CSE student
